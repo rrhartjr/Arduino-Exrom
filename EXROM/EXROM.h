@@ -24,7 +24,7 @@
 #ifndef EXROM_h
 #define EXROM_h
 
-#include "WProgram.h"
+#include "Arduino.h"
 
 class EXROMClass
 {
